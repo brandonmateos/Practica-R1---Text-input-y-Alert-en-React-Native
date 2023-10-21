@@ -8,9 +8,7 @@ Práctica R1
 
 1. Agregar un TextInput arriba del switch
 
-2. Cada que cambie el valor del TextInput,
-
-actualizarlo en el state.
+2. Cada que cambie el valor del TextInput, actualizarlo en el state.
 
 3. Al presionar el botón, imprimir un Alert
 
